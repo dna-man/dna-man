@@ -20,6 +20,12 @@ Seeking leadership positions in Microsoft programming environments, specifically
 * **Languages & Hardware:** C, C++, BASIC, Assembly, RobotC, Java, Python, Matlab, and PHP experience. Arduino and PIC microcontrollers, auto-pilot software, robots, home automation.
 * **Other skills:** Electronics, Arduino, other microcontrollers. Glass bead and marble-making. Experience with robotics, aircraft and spacecraft. High speed, high data rate telemetry analysis and visualization. 3D design (Fusion 360, TinkerCad, Sketchup) and 3D printing. Operating machining tools (lathe, milling machine, cnc, G-Code). FAA-registered drone pilot, AMA-registered pilot instructor. 20 years aerial video experience.
 
+### ⚡ Operational Agility & Work Style
+I deliver my highest architectural value when managing a balanced, high-throughput workload:
+* **Core Focus:** Driving 1 or 2 high-impact enterprise initiatives (e.g., pipeline optimization, secure database modernization, or Edge AI integration).
+* **Tactical Execution:** Maintaining an active, steady stream of 3 to 4 ad-hoc data queries or system optimization tickets per week to support cross-functional business agility.
+* **The Result:** High-velocity engineering that balances long-term structural integrity with rapid, daily issue resolution.
+
 ## WORK EXPERIENCE
 
 ### Senior .Net Developer (Remote)
