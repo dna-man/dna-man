@@ -4,6 +4,13 @@
 ## Professional Summary
 Multi-discipline senior software engineer and database architect with nearly three decades of experience driving enterprise full-stack development, telemetry diagnostics, and relational database engineering across high-compliance industries. Specializes in transforming unstable legacy architectures, diagnosing deep concurrency failures, and resolving high-volume transaction bottlenecks. A tactical communicator and technical lead who bridges the gap between complex software systems, database internals, and cross-functional business objectives to establish reliable, predictable production environments
 
+## Technical Profile
+* **Backend & Architecture:** .NET Core, C#, ASP.NET MVC (MVC5), WebAPI, Razor, LINQ, Entity Framework, REST, WCF
+* **Database Engineering:** Microsoft SQL Server, advanced database design, query optimization, triggers, stored procedures, indexing strategy, SSIS, ETL, data warehousing, SSRS, Crystal Reports, Oracle, MongoDB, Redis
+* **Frontend Engineering:** JavaScript, TypeScript, JQuery, HTML5, CSS3, Bootstrap, Angular/AngularJS, React, Vue, Node.js, Kendo UI
+* **Cloud & DevOps:** Azure (Fundamentals Certified), AWS, Intel Cloud, CI/CD, Git/GitHub, Visual Studio, VS Code, Liquibase, Jenkins, TFS Build
+* **Systems & Hardware Engineering:** High-data-rate telemetry analysis, C/C++, Assembly, Python, Fusion 360, embedded software, microcontrollers (Arduino, ESP32, PIC), automation pipelines, G-Code
+
 ## Bioinformatics and Infrastructure
 * **Scientific Foundation:** B.A. in Biology with a strong emphasis on Computer Science and Mathematics.
 * **Edge AI & Computer Vision:** Real-time object tracking, facial recognition, and image classification using **HuskyLens** and **MU Vision sensors**; custom data parsing via embedded Python/C++ interfaces.
@@ -11,13 +18,6 @@ Multi-discipline senior software engineer and database architect with nearly thr
 * **AI Dev Tools & LLMs:** Expert proficiency in **GitHub Copilot** for accelerated development and context-aware code translation. Hands-on experience configuring **Ollama** and **Jan** for local, secure LLM orchestration.
 * **Pipeline & Data Engineering:** Exposure to **Nextflow** for genomic workflow orchestration; expert in Jenkins CI/CD, ETL (SSIS), and advanced database performance tuning (SQL Server, Oracle, MongoDB).
 * **Full Stack & Cloud Frameworks:** Azure Fundamentals Certified, AWS, Intel Cloud, .NET Core, C#, ASP.NET MVC, WebAPI, React, Angular, Node.js, Python, and Matlab.
-
-## Technical Profile
-*Backend & Architecture:* .NET Core, C#, ASP.NET MVC (MVC5), WebAPI, Razor, LINQ, Entity Framework, REST, WCF
-*Database Engineering:* Microsoft SQL Server, advanced database design, query optimization, triggers, stored procedures, indexing strategy, SSIS, ETL, data warehousing, SSRS, Crystal Reports, Oracle, MongoDB, Redis
-*Frontend Engineering:* JavaScript, TypeScript, JQuery, HTML5, CSS3, Bootstrap, Angular/AngularJS, React, Vue, Node.js, Kendo UI
-*Cloud & DevOps:* Azure (Fundamentals Certified), AWS, Intel Cloud, CI/CD, Git/GitHub, Visual Studio, VS Code, Liquibase, Jenkins, TFS Build
-*Systems & Hardware Engineering:* High-data-rate telemetry analysis, C/C++, Assembly, Python, Fusion 360, embedded software, microcontrollers (Arduino, ESP32, PIC), automation pipelines, G-Code
 
 ### Operational Agility & Work Style
 I deliver my highest architectural value when managing a balanced, high-throughput workload:
