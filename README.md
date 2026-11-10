@@ -1,7 +1,7 @@
 # Daniel Adamson
 303-523-8719 | dna_man@yahoo.com | https://www.linkedin.com/in/daniel-adamson-805091287/ | Mesa, AZ / Remote Ready
 
-## OBJECTIVE
+## Objective
 Seeking leadership positions in Microsoft programming environments, specifically Microsoft C# .Net and ASP.Net MVC development. I have the experience to proactively avoid problems, anticipate requirements, maintain good communication with clients and management, and direct and train junior programmers.
 
 ## Bioinformatics and Infrastructure
@@ -12,7 +12,7 @@ Seeking leadership positions in Microsoft programming environments, specifically
 * **Pipeline & Data Engineering:** Exposure to **Nextflow** for genomic workflow orchestration; expert in Jenkins CI/CD, ETL (SSIS), and advanced database performance tuning (SQL Server, Oracle, MongoDB).
 * **Full Stack & Cloud Frameworks:** Azure Fundamentals Certified, AWS, Intel Cloud, .NET Core, C#, ASP.NET MVC, WebAPI, React, Angular, Node.js, Python, and Matlab.
 
-## SUMMARY OF SKILLS
+## Core Skills Experience
 * **Azure Fundamentals Certification** – Azure, AWS, Intel Cloud.
 * **ASP.Net** – MVC5, WebAPI, Razor, HTML5, CSS3, JQuery, Bootstrap, Kendo UI, Javascript, AngularJS, NodeJS, Git/Github, Visual Studio.
 * **Microsoft SQL Server** - advanced database design and implementation, query optimization, stored procedures, triggers, ETL, SSIS and server administration.
