@@ -1,5 +1,7 @@
 # Daniel Adamson
-303-523-8719 | dna_man@yahoo.com | https://www.linkedin.com/in/daniel-adamson-805091287/ | Mesa, AZ / Remote Ready
+303-523-8719 | dna_man@yahoo.com 
+https://www.linkedin.com/in/daniel-adamson-805091287/ 
+Mesa, AZ / Remote Ready
 
 ## Professional Summary
 Multi-discipline senior software engineer and database architect with nearly three decades of experience driving enterprise full-stack development, telemetry diagnostics, and relational database engineering across high-compliance industries. Specializes in transforming unstable legacy architectures, diagnosing deep concurrency failures, and resolving high-volume transaction bottlenecks. A tactical communicator and technical lead who bridges the gap between complex software systems, database internals, and cross-functional business objectives to establish reliable, predictable production environments
