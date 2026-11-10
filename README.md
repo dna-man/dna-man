@@ -4,6 +4,14 @@
 ## OBJECTIVE
 Seeking leadership positions in Microsoft programming environments, specifically Microsoft C# .Net and ASP.Net MVC development. I have the experience to proactively avoid problems, anticipate requirements, maintain good communication with clients and management, and direct and train junior programmers.
 
+## Bioinformatics and Infrastructure
+* **Scientific Foundation:** B.A. in Biology with a strong emphasis on Computer Science and Mathematics.
+* **Edge AI & Computer Vision:** Real-time object tracking, facial recognition, and image classification using **HuskyLens** and **MU Vision sensors**; custom data parsing via embedded Python/C++ interfaces.
+* **Hardware & IoT Engineering:** Embedded systems design utilizing the **ESP32 platform**, ATmega328, Arduino, and PIC microcontrollers; electronic circuit prototyping, e-paper display integration, and Bluetooth/Wi-Fi wireless communication protocols.
+* **AI Dev Tools & LLMs:** Expert proficiency in **GitHub Copilot** for accelerated development and context-aware code translation. Hands-on experience configuring **Ollama** and **Jan** for local, secure LLM orchestration.
+* **Pipeline & Data Engineering:** Exposure to **Nextflow** for genomic workflow orchestration; expert in Jenkins CI/CD, ETL (SSIS), and advanced database performance tuning (SQL Server, Oracle, MongoDB).
+* **Full Stack & Cloud Frameworks:** Azure Fundamentals Certified, AWS, Intel Cloud, .NET Core, C#, ASP.NET MVC, WebAPI, React, Angular, Node.js, Python, and Matlab.
+
 ## SUMMARY OF SKILLS
 * **Azure Fundamentals Certification** – Azure, AWS, Intel Cloud.
 * **ASP.Net** – MVC5, WebAPI, Razor, HTML5, CSS3, JQuery, Bootstrap, Kendo UI, Javascript, AngularJS, NodeJS, Git/Github, Visual Studio.
