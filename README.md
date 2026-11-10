@@ -1,8 +1,8 @@
 # Daniel Adamson
 303-523-8719 | dna_man@yahoo.com | https://www.linkedin.com/in/daniel-adamson-805091287/ | Mesa, AZ / Remote Ready
 
-## Objective
-Seeking leadership positions in Microsoft programming environments, specifically Microsoft C# .Net and ASP.Net MVC development. I have the experience to proactively avoid problems, anticipate requirements, maintain good communication with clients and management, and direct and train junior programmers.
+## Professional Summary
+Multi-discipline senior software engineer and database architect with nearly three decades of experience driving enterprise full-stack development, telemetry diagnostics, and relational database engineering across high-compliance industries. Specializes in transforming unstable legacy architectures, diagnosing deep concurrency failures, and resolving high-volume transaction bottlenecks. A tactical communicator and technical lead who bridges the gap between complex software systems, database internals, and cross-functional business objectives to establish reliable, predictable production environments
 
 ## Bioinformatics and Infrastructure
 * **Scientific Foundation:** B.A. in Biology with a strong emphasis on Computer Science and Mathematics.
@@ -12,15 +12,14 @@ Seeking leadership positions in Microsoft programming environments, specifically
 * **Pipeline & Data Engineering:** Exposure to **Nextflow** for genomic workflow orchestration; expert in Jenkins CI/CD, ETL (SSIS), and advanced database performance tuning (SQL Server, Oracle, MongoDB).
 * **Full Stack & Cloud Frameworks:** Azure Fundamentals Certified, AWS, Intel Cloud, .NET Core, C#, ASP.NET MVC, WebAPI, React, Angular, Node.js, Python, and Matlab.
 
-## Core Skills Experience
-* **Azure Fundamentals Certification** – Azure, AWS, Intel Cloud.
-* **ASP.Net** – MVC5, WebAPI, Razor, HTML5, CSS3, JQuery, Bootstrap, Kendo UI, Javascript, AngularJS, NodeJS, Git/Github, Visual Studio.
-* **Microsoft SQL Server** - advanced database design and implementation, query optimization, stored procedures, triggers, ETL, SSIS and server administration.
-* **Expert with .Net framework and C#** – very experienced with .Net Core, MVC Web Application development. Windows Forms Applications, ASP.Net Web Forms, ASP.Net Web Services (WCF), DotNetNuke, Telerik/Kendo Controls, JQuery, Javascript, and HTML5/CSS3, Entity Framework, LINQ, Visual Studio and VS Code.
-* **Languages & Hardware:** C, C++, BASIC, Assembly, RobotC, Java, Python, Matlab, and PHP experience. Arduino and PIC microcontrollers, auto-pilot software, robots, home automation.
-* **Other skills:** Electronics, Arduino, other microcontrollers. Glass bead and marble-making. Experience with robotics, aircraft and spacecraft. High speed, high data rate telemetry analysis and visualization. 3D design (Fusion 360, TinkerCad, Sketchup) and 3D printing. Operating machining tools (lathe, milling machine, cnc, G-Code). FAA-registered drone pilot, AMA-registered pilot instructor. 20 years aerial video experience.
+## Technical Profile
+*Backend & Architecture:* .NET Core, C#, ASP.NET MVC (MVC5), WebAPI, Razor, LINQ, Entity Framework, REST, WCF
+*Database Engineering:* Microsoft SQL Server, advanced database design, query optimization, triggers, stored procedures, indexing strategy, SSIS, ETL, data warehousing, SSRS, Crystal Reports, Oracle, MongoDB, Redis
+*Frontend Engineering:* JavaScript, TypeScript, JQuery, HTML5, CSS3, Bootstrap, Angular/AngularJS, React, Vue, Node.js, Kendo UI
+*Cloud & DevOps:* Azure (Fundamentals Certified), AWS, Intel Cloud, CI/CD, Git/GitHub, Visual Studio, VS Code, Liquibase, Jenkins, TFS Build
+*Systems & Hardware Engineering:* High-data-rate telemetry analysis, C/C++, Assembly, Python, Fusion 360, embedded software, microcontrollers (Arduino, ESP32, PIC), automation pipelines, G-Code
 
-### ⚡ Operational Agility & Work Style
+### Operational Agility & Work Style
 I deliver my highest architectural value when managing a balanced, high-throughput workload:
 * **Core Focus:** Driving 1 or 2 high-impact enterprise initiatives (e.g., pipeline optimization, secure database modernization, or Edge AI integration).
 * **Tactical Execution:** Maintaining an active, steady stream of 3 to 4 ad-hoc data queries or system optimization tickets per week to support cross-functional business agility.
