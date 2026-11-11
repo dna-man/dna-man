@@ -95,6 +95,19 @@ The challenge isn't simply to automate a sequence of actions. It's to create som
 
 The machine is nearing completion. This project brings together mechanical design, electronics, automation, and my broader engineering philosophy: technology should work around people, not expect people to work around technology.
 
+### 6. Clipboard Electronics: Understanding Technology from the Ground Up
+
+**Technical Education | YouTube Channel**
+
+*Clipboard Electronics* is my YouTube channel, where I share technical knowledge, demonstrate projects, and explain how technology works.
+
+One of the things I'm particularly proud of is the breadth of subjects I can explore and communicate. My experience isn't limited to application development or any single layer of the technology stack. I'm comfortable working across electronics, hardware, microcontrollers, embedded systems, software, and the applications built on top of them.
+
+I enjoy understanding how things work at a fundamental level, connecting that understanding to the bigger picture, and making complicated technical subjects accessible to other people. For example see this technical deep dive into the [ATTiny Timers Architecture](https://www.youtube.com/watch?v=W0PRDd4JXcg)
+
+The channel also reflects something important about how I approach engineering: understanding a technology is one thing; being able to explain it clearly enough that someone else can understand it is another.
+
+The channel has been quieter recently, but I'm actively working on new material and projects. It's an ongoing outlet for my curiosity, experimentation, and enthusiasm for sharing what I've learned.
 ---
 
 ### A Common Thread
