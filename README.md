@@ -1,6 +1,6 @@
 # Daniel Adamson
 **Senior Software Engineer & System Architect**  
-Mesa, AZ | dna_man@yahoo.com | 303-523-8719 | [LinkedIn](https://linkedin.com)
+Mesa, AZ | https://www.linkedin.com/in/daniel-adamson-805091287/ 
 
 ---
 
