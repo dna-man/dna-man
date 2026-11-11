@@ -13,11 +13,8 @@ Multi-discipline senior software engineer and database architect with nearly thr
 * **Systems & Hardware Engineering:** High-data-rate telemetry analysis, C/C++, Assembly, Python, Fusion 360, embedded software, microcontrollers (Arduino, ESP32, PIC), automation pipelines, G-Code
 
 
-### Operational Agility & Work Style
-I deliver my highest architectural value when managing a balanced, high-throughput workload:
-* **Core Focus:** Driving 1 or 2 high-impact enterprise initiatives (e.g., pipeline optimization, secure database modernization, or Edge AI integration).
-* **Tactical Execution:** Maintaining an active, steady stream of 3 to 4 ad-hoc data queries or system optimization tickets per week to support cross-functional business agility.
-* **The Result:** High-velocity engineering that balances long-term structural integrity with rapid, daily issue resolution.
+### Engineering Approach
+I build technology around people, not people around technology. I specialize in diagnosing difficult problems, designing practical solutions, and carrying projects through implementation, documentation, and handoff. I also value mentoring developers and helping teams build better engineering practices.
 
 ## WORK EXPERIENCE
 
