@@ -5,12 +5,6 @@ Mesa, AZ / Remote Ready
 ## Professional Summary
 Multi-discipline senior software engineer and database architect with nearly three decades of experience driving enterprise full-stack development, telemetry diagnostics, and relational database engineering across high-compliance industries. Specializes in transforming unstable legacy architectures, diagnosing deep concurrency failures, and resolving high-volume transaction bottlenecks. A tactical communicator and technical lead who bridges the gap between complex software systems, database internals, and cross-functional business objectives to establish reliable, predictable production environments
 
-## Technical Profile
-* **Backend & Architecture:** .NET Core, C#, ASP.NET MVC (MVC5), WebAPI, Razor, LINQ, Entity Framework, REST, WCF
-* **Database Engineering:** Microsoft SQL Server, advanced database design, query optimization, triggers, stored procedures, indexing strategy, SSIS, ETL, data warehousing, SSRS, Crystal Reports, Oracle, MongoDB, Redis
-* **Frontend Engineering:** JavaScript, TypeScript, JQuery, HTML5, CSS3, Bootstrap, Angular/AngularJS, React, Vue, Node.js, Kendo UI
-* **Cloud & DevOps:** Azure (Fundamentals Certified), AWS, Intel Cloud, CI/CD, Git/GitHub, Visual Studio, VS Code, Liquibase, Jenkins, TFS Build
-* **Systems & Hardware Engineering:** High-data-rate telemetry analysis, C/C++, Assembly, Python, Fusion 360, embedded software, microcontrollers (Arduino, ESP32, PIC), automation pipelines, G-Code
 
 ## Bioinformatics and Infrastructure
 * **Scientific Foundation:** B.A. in Biology with a strong emphasis on Computer Science and Mathematics.
