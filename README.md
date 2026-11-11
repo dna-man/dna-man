@@ -1,5 +1,4 @@
 # Daniel Adamson
-303-523-8719 | dna_man@yahoo.com 
 https://www.linkedin.com/in/daniel-adamson-805091287/ 
 Mesa, AZ / Remote Ready
 
