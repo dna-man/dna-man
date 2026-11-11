@@ -95,17 +95,22 @@ The challenge isn't simply to automate a sequence of actions. It's to create som
 
 The machine is nearing completion. This project brings together mechanical design, electronics, automation, and my broader engineering philosophy: technology should work around people, not expect people to work around technology.
 
-### 6. Clipboard Electronics: Understanding Technology from the Ground Up
+### Clipboard Electronics: Technology from the Ground Up
 
-**Technical Education | YouTube Channel**
+**Technical Education, Experimentation & Practical Engineering | YouTube**
 
-*Clipboard Electronics* is my YouTube channel, where I share technical knowledge, demonstrate projects, and explain how technology works.
+*Clipboard Electronics* is my YouTube channel, where I explore technology through hands-on projects, practical demonstrations, and detailed technical explanations.
 
-One of the things I'm particularly proud of is the breadth of subjects I can explore and communicate. My experience isn't limited to application development or any single layer of the technology stack. I'm comfortable working across electronics, hardware, microcontrollers, embedded systems, software, and the applications built on top of them.
+The subjects span a broad range of disciplines, including digital electronics, microcontrollers, embedded systems, programming, radio technology, RF analysis, and practical project development.
 
-I enjoy understanding how things work at a fundamental level, connecting that understanding to the bigger picture, and making complicated technical subjects accessible to other people. For example see this technical deep dive into the [ATTiny Timers Architecture](https://www.youtube.com/watch?v=W0PRDd4JXcg)
+Some videos dive deeply into the underlying technology. For example, I demonstrate how microcontroller timers work at the hardware level, progressing from clock signals and binary logic through prescalers, registers, and direct hardware configuration in C++. Others focus on practical applications, such as programming Baofeng radios, using a TinySA spectrum analyzer to investigate radio transmissions, organizing complex projects, or helping beginners choose components when learning Arduino.
 
-The channel also reflects something important about how I approach engineering: understanding a technology is one thing; being able to explain it clearly enough that someone else can understand it is another.
+What ties these subjects together is my interest in understanding how technology works, from its fundamental building blocks to its practical applications.
+
+I enjoy sharing that knowledge. Explaining a complicated subject clearly requires more than knowing which buttons to press or which library to use; it requires understanding the underlying principles well enough to make them understandable to someone else.
+
+The channel is also an extension of my approach to mentoring and engineering: experiment, investigate, understand, and share what you've learned.
+
 
 ---
 
