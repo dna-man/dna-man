@@ -95,7 +95,7 @@ The challenge isn't simply to automate a sequence of actions. It's to create som
 
 The machine is nearing completion. This project brings together mechanical design, electronics, automation, and my broader engineering philosophy: technology should work around people, not expect people to work around technology.
 
-### Clipboard Electronics: Technology from the Ground Up
+### 6. Clipboard Electronics: Technology from the Ground Up
 
 **Technical Education, Experimentation & Practical Engineering | YouTube**
 
