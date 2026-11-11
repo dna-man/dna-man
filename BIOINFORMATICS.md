@@ -14,11 +14,8 @@ Multi-discipline senior software engineer and database architect with nearly thr
 * **Pipeline & Data Engineering:** Exposure to **Nextflow** for genomic workflow orchestration; expert in Jenkins CI/CD, ETL (SSIS), and advanced database performance tuning (SQL Server, Oracle, MongoDB).
 * **Full Stack & Cloud Frameworks:** Azure Fundamentals Certified, AWS, Intel Cloud, .NET Core, C#, ASP.NET MVC, WebAPI, React, Angular, Node.js, Python, and Matlab.
 
-### Operational Agility & Work Style
-I deliver my highest architectural value when managing a balanced, high-throughput workload:
-* **Core Focus:** Driving 1 or 2 high-impact enterprise initiatives (e.g., pipeline optimization, secure database modernization, or Edge AI integration).
-* **Tactical Execution:** Maintaining an active, steady stream of 3 to 4 ad-hoc data queries or system optimization tickets per week to support cross-functional business agility.
-* **The Result:** High-velocity engineering that balances long-term structural integrity with rapid, daily issue resolution.
+### Engineering Approach
+I build technology around people, not people around technology. I specialize in diagnosing difficult problems, designing practical solutions, and carrying projects through implementation, documentation, and handoff. I also value mentoring developers and helping teams build better engineering practices.
 
 ## WORK EXPERIENCE
 
