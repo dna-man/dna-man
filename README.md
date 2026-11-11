@@ -11,7 +11,7 @@ To review my nearly three decades of professional history, technical competencie
 *Computational biology foundations, Nextflow pipeline exposure, edge computing, hardware instrumentation (ESP32/HuskyLens), and data parsing.*
 
 ### 🖥️ [Enterprise Systems & Database Architecture Profile](ENTERPRISE_SYSTEMS.md)
-*Principal-level full-stack C# .NET Core engineering, advanced SQL Server internals, transactional deadlock elimination, and high-volume transaction compliance.*
+*Senior .Net Software Engineer, advanced SQL Server internals, transactional deadlock elimination, and high-volume transaction compliance.*
 
 ---
 
