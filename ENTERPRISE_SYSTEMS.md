@@ -2,9 +2,8 @@
 **Senior .NET Software Engineer | Full-Stack Developer | Database Architect**
 
 Mesa, AZ  
-dna_man@yahoo.com | 303-523-8719
+(https://www.linkedin.com/in/daniel-adamson-805091287/)
 
----
 
 ## PROFESSIONAL SUMMARY
 
