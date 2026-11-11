@@ -1,107 +1,187 @@
-# Daniel Adamson
-https://www.linkedin.com/in/daniel-adamson-805091287/ 
-Mesa, AZ / Remote Ready
+# DANIEL E. ADAMSON
+**Senior .NET Software Engineer | Full-Stack Developer | Database Architect**
 
-## Professional Summary
-Multi-discipline senior software engineer and database architect with nearly three decades of experience driving enterprise full-stack development, telemetry diagnostics, and relational database engineering across high-compliance industries. Specializes in transforming unstable legacy architectures, diagnosing deep concurrency failures, and resolving high-volume transaction bottlenecks. A tactical communicator and technical lead who bridges the gap between complex software systems, database internals, and cross-functional business objectives to establish reliable, predictable production environments
+Mesa, AZ  
+dna_man@yahoo.com | 303-523-8719
 
-## Technical Profile
-* **Backend & Architecture:** .NET Core, C#, ASP.NET MVC (MVC5), WebAPI, Razor, LINQ, Entity Framework, REST, WCF
-* **Database Engineering:** Microsoft SQL Server, advanced database design, query optimization, triggers, stored procedures, indexing strategy, SSIS, ETL, data warehousing, SSRS, Crystal Reports, Oracle, MongoDB, Redis
-* **Frontend Engineering:** JavaScript, TypeScript, JQuery, HTML5, CSS3, Bootstrap, Angular/AngularJS, React, Vue, Node.js, Kendo UI
-* **Cloud & DevOps:** Azure (Fundamentals Certified), AWS, Intel Cloud, CI/CD, Git/GitHub, Visual Studio, VS Code, Liquibase, Jenkins, TFS Build
-* **Systems & Hardware Engineering:** High-data-rate telemetry analysis, C/C++, Assembly, Python, Fusion 360, embedded software, microcontrollers (Arduino, ESP32, PIC), automation pipelines, G-Code
+---
 
+## PROFESSIONAL SUMMARY
 
-### Engineering Approach
-I build technology around people, not people around technology. I specialize in diagnosing difficult problems, designing practical solutions, and carrying projects through implementation, documentation, and handoff. I also value mentoring developers and helping teams build better engineering practices.
+Senior software engineer and database architect with nearly three decades of experience designing, developing, modernizing, and supporting enterprise software systems. Extensive hands-on experience with C#, .NET, ASP.NET MVC, SQL Server, relational database architecture, web services, and full-stack application development.
 
-## WORK EXPERIENCE
+Particularly effective at diagnosing difficult production problems, resolving database concurrency and performance issues, and transforming complicated business requirements into reliable software. Experienced across financial services, aerospace, healthcare-related environments, enterprise operations, and government applications.
 
-### Senior .Net Developer (Remote)
-**Epiq Global** | *12/25 - present*
-* Architect and scale enterprise full-stack web applications and robust relational database environments to support heavy compliance data transactions.
-* Extensively integrate **Generative AI workflows** into the software development lifecycle, utilizing **GitHub Copilot** to accelerate development speed, streamline pull request reviews, and conduct automated code quality audits.
-* Manage and orchestrate secure, offline Large Language Models (LLMs) locally using **Ollama** and **Jan** to experiment with code synthesis and prompt engineering without exposing proprietary codebases to external networks.
+A hands-on technical leader who takes ownership from initial design through implementation, documentation, delivery, and handoff. Enjoys mentoring junior developers, sharing technical knowledge, and helping engineers develop sound problem-solving skills and professional judgment.
 
-### Senior Web Developer (Remote)
-**Wells Fargo** | Chandler, AZ | *5/18 – 12/24*
-* Develop and maintain software customizations using ASP.Net MVC, Angular, .Net Core, C#, SQL Server, Entity Framework, Oracle, CSS/LESS and Javascript using Agile methods, Jira and Sharepoint.
-* Developed applications in C# for scanning network files for security issues. Developed MVC site displaying reports of file scan data in the Azure Cloud, with a SQL Server and SSIS back end.
-* Administration of Autosys, TFS Build, Azure Cloud, Jenkins, Liquibase, ClusterSeven and Windows Server. Visual Studio, VS Code, Git, Sql*Developer.
+## TECHNICAL SKILLS
 
-### Senior Web Developer (Remote)
-**Intel** | Chandler, AZ | *11/17 – 4/18*
-* Develop back-end systems using AWS, .NET WebAPI, MongoDB, SQL Server, and Intel Cloud.
-* Developed management cockpit web site using MVC 5, Jquery, JqueryUI, Datatables, Bootstrap. and other open source libraries to meet Intel branding specs.
+**Languages & Frameworks:**  
+C#, .NET, .NET Core, ASP.NET MVC, ASP.NET Web Forms, Web API, VB.NET, JavaScript, TypeScript, SQL, Python, C++
 
-### Senior Web Developer
-**Origami Owl/Willing Beauty** | Chandler, AZ | *2/17 – 10/17*
-* Develop and maintain public ASP.Net MVC web sites (://origamiowl.com and ://willingbeauty.com ) for company e-commerce supporting a direct-sales network, SQL Server, database administration, SSRS reports, SSIS jobs DB design, stored procedures. Extensive use of Exigo API, AWS, Redis.
+**Application Architecture:**  
+Full-Stack Development, REST APIs, WCF, Entity Framework, LINQ, Razor, Windows Applications, Windows Services, Client/Server Applications, Service-Oriented Architecture, Application Integration
 
-### Senior Web Developer
-**Wells Fargo** | Chandler, AZ | *3/16 – 2/17*
-* Develop and maintain ASP.Net MVC web sites for a high-profile internal application, supporting regulatory requirement analysis and business process mapping.
-* Converting app to use Angular, improving architecture, developing many new features to support process map auditing.
-* Telerik Kendo, MVC5 (C#), Razor, HTML5/CSS3, Angular JS, Entity Framework/LINQ, SQL Server, LESS, and Bootstrap. Lots of integration with other systems.
+**Database Engineering:**  
+Microsoft SQL Server, T-SQL, Oracle, MongoDB, Redis, Database Architecture, Data Modeling, Query Optimization, Stored Procedures, Triggers, Indexing, Transaction Management, SSIS, ETL, Data Warehousing, SSRS, Crystal Reports
 
-### Web Developer
-**BlackHawk Network** | Mesa, AZ | *9/15 – 3/16*
-* Develop and maintain ASP.Net MVC web sites using Angular JS front end and service-oriented back end. C#, Razor, HTML5/CSS3, Angular JS, Entity Framework/LINQ, Telerik Kendo, SQL Server, and Bootstrap.
-* Develop web services for data and business logic layers.
+**Frontend Development:**  
+HTML5, CSS3, JavaScript, jQuery, Angular, AngularJS, React, Vue.js, Node.js, Bootstrap, Telerik Kendo UI, Highcharts
 
-### Web Developer
-**Wells Fargo** | Chandler, AZ | *3/14 – 9/15*
-* Maintain ASP.Net MVC web sites and develop new features for financial auditing
-* C#, Razor, HTML5/CSS3, Jquery, Telerik Kendo, SQL Server, Bootstrap.js, and HighCharts.
-* Maintain Windows Service in C# for file exports from the web site.
+**Cloud, Build & Development Tools:**  
+Microsoft Azure, AWS, Git, GitHub, Visual Studio, VS Code, Jenkins, CI/CD, TFS Build, Liquibase, NPM, Jira, Confluence
 
-### Senior Web and Database Developer (Onsite SCIF)
-**Level3 Communications** | Broomfield, CO | *3/13 – 3/14*
-* Maintain ASP.Net/C# web sites and develop new features for financial department.
-* Update site to HTML5/CSS3, add JQuery/Kendo based features to save users time and present a more useful interface. Develop Entity Framework solutions against Oracle and SQL Server. SSIS packages, Windows Apps, SQL*Developer, PL/SQL, SQL Server 2008/2012, Visual Studio 2010/2012.
-* Assist other developers and users with queries, reports and development tasks. (1-year contract)
+**Additional Engineering:**  
+Embedded Systems, Arduino, ESP32, Microcontrollers, Telemetry Analysis, Automation, Technical Documentation, Systems Integration
 
-### Senior Web and Database Developer (Onsite SCIF)
-**Ball Aerospace** | Broomfield, CO | *6/12 – 1/13*
-* Develop web-based telemetry analysis tools for spacecraft testing center. (James Webb Space Telescope (JWST) and Classified spacecraft)
-* Assist with database design, performance tuning, and telemetry import process. Daily work with Microsoft SQL Server 2008 and T-SQL, ASP.Net Web Forms, Javascript, JQuery, and Flotr2 graphing library. Also occasional work with Ruby, Matlab, and Labview. (6-mo contract)
+## PROFESSIONAL EXPERIENCE
 
-### Senior Web Applications Developer (Hybrid Remote)
-**American Water Works Association** | Denver, CO | *4/08 – 6/12*
-* Maintain the web site www.awwa.org and the various servers and applications which make up the TMA Resources Personify Association Management application.
-* Design and code features of the web site using mostly DotNetNuke Modules, ASPX pages, and XSL Templates.
-* Create and maintain database features to enhance and customize the Personify application.
-* Daily work with SQL Server 2005-2008, ASP.Net Web Forms, C# and VB.Net, T-SQL, JavaScript, IIS 6.0 and 7.0, XML/XSL, HTML, and Google Search Appliance.
+### EPIQ GLOBAL | Senior Software Engineer
+**December 2025 – Present | Remote**
 
-### Sole proprietor and Developer
-**Supernova Software, LLC** | Mesa, AZ | *6/05 – present*
-* Develop a C#.Net client/server Windows/SQL Server application to manage accounts for the manufactured home industry to allow lenders and dealers to collaborate on accounts and work with buyers to create lending solutions that work for them, and automatically generate the paperwork required to process the loans when the clients are ready to close the deal. Also developing a C# client/server application for the California Department of Housing and Community Development, and a similar application and database for the States of Colorado and Oregon.
+- Served as a technical anchor for an enterprise full-stack environment supporting the Discover Merchant Settlement portal.
+- Resolved persistent production deadlocks and race conditions in a high-volume SQL Server environment that had created significant development and operational problems.
+- Diagnosed underlying transactional behavior and implemented targeted logic changes within database triggers, avoiding unnecessary and invasive changes across multiple procedures.
+- Improved execution performance across legacy SQL Server procedures and integrations.
+- Developed and maintained application functionality using MVC .NET and JavaScript.
+- Focused on production stability, database reliability, and maintainable solutions in an audit-conscious environment.
 
-### C#/ASP.Net and SQL Server Development and Company IT Manager
-**Business Enterprise Institute** | Lakewood, CO | *3/06 – 4/08*
-* Develop new software for ASP.Net web site and company mailing list.
-* Created a sales pipeline management application using web forms to allow clients to manage their mailing lists.
-* Installed and modified a PHP-based forum system.
-* Maintain the web server and develop and maintain the SQL Server database.
-* Create and manage a content management system to serve different document and web page versions to different clients of the company.
-* Manage day-to-day operations of company IT systems.
+### WELLS FARGO | Senior Web Developer
+**May 2018 – December 2024 | Chandler, AZ / Remote**
 
-### VB/SQL/Java/C# Development
-**Moore-Wallace/RR Donnelly** | Logan, UT | *4/05 – 3/6*
-* Develop software to support web sites for various clients of the company.
-* SQL development, importing data and serving data for web sites and online PDF reports.
-* Created tools for data-driven PDF reports, using XSL-FO and Apache FOP.
-* Standardized data import processes using DTS and SQL.
-* Created a markup language used to incorporate live data into PDFs, greatly simpliflying a primary business of the company.
+- Developed and maintained enterprise applications using C#, ASP.NET MVC, .NET Core, Angular, React, Vue.js, JavaScript, SQL Server, Oracle, and Entity Framework.
+- Developed C# applications to scan network files for security issues, including a tool that identified potential personally identifiable information (PII) in Excel documents.
+- Built an ASP.NET MVC reporting application displaying scan results, backed by SQL Server and SSIS and deployed in Azure.
+- Developed a high-throughput document-scanning solution capable of processing multiple documents per second.
+- Worked with enterprise build, deployment, and administration technologies including Azure, Jenkins, TFS Build, Liquibase, Autosys, and Windows Server.
+- Collaborated in Agile development environments using Jira, Confluence, and SharePoint.
 
-### SQL Developer
-**Wall Street On Demand, Inc.** | Boulder, CO | *10/99 – 8/02*
-* Develop database software primarily in SQL using Microsoft SQL Server. Assist with decisions regarding application design, business logic, security, maintenance and data acquisition. Implemented designs by creating tables, stored procedures, triggers, referential integrity enforcement, and various interface elements. Worked with web developers to integrate data solutions and web sites. Major projects included designing database applications to support web sites for Charles Schwab, TD Waterhouse, Janus Funds, Forbes magazine, E*Trade, and Reuters. Specialty areas included data acquisition software, statistical applications and a foreign equities database. Designed and maintained a large database of foreign equities information, which supported several clients. Created investment calendars for TD Waterhouse. Designed Java analysis program to track database usage. Built database to support Japanese-language research for Schwab Japan’s website.
+### INTEL | Senior Web Developer
+**November 2017 – April 2018 | Chandler, AZ / Remote**
+
+- Developed backend systems using .NET Web API, C#, AWS, MongoDB, SQL Server, and Intel Cloud.
+- Developed an MVC 5 management cockpit using jQuery, jQuery UI, DataTables, Bootstrap, and supporting open-source libraries.
+- Adapted application interfaces to meet Intel branding and presentation requirements.
+
+### ORIGAMI OWL / WILLING BEAUTY | Senior Web Developer
+**February 2017 – October 2017 | Chandler, AZ**
+
+- Developed and maintained public ASP.NET MVC e-commerce websites supporting a direct-sales network.
+- Worked with C#, SQL Server, database administration, SSRS reporting, SSIS jobs, and stored procedures.
+- Integrated extensively with the Exigo API, AWS, and Redis.
+
+### WELLS FARGO | Senior Web Developer
+**March 2016 – February 2017 | Chandler, AZ**
+
+- Developed and maintained ASP.NET MVC applications supporting internal financial and regulatory business processes.
+- Helped modernize application architecture through AngularJS integration and development of new process-auditing capabilities.
+- Developed with C#, MVC 5, Razor, Entity Framework, LINQ, SQL Server, Telerik Kendo UI, AngularJS, Bootstrap, and JavaScript.
+- Worked with business stakeholders on regulatory requirements and business process mapping.
+
+### BLACKHAWK NETWORK | Web Developer
+**September 2015 – March 2016 | Mesa, AZ**
+
+- Developed and maintained ASP.NET MVC applications with AngularJS front ends and service-oriented backends.
+- Built web services supporting application data and business logic layers.
+- Used C#, Razor, Entity Framework, LINQ, SQL Server, Telerik Kendo UI, HTML5, CSS3, and Bootstrap.
+
+### WELLS FARGO | Web Developer
+**March 2014 – September 2015 | Chandler, AZ**
+
+- Maintained and enhanced ASP.NET MVC applications supporting financial auditing.
+- Developed new application features using C#, Razor, SQL Server, jQuery, Telerik Kendo UI, Bootstrap, and Highcharts.
+- Maintained a C# Windows Service responsible for exporting files from the web application.
+
+### LEVEL 3 COMMUNICATIONS | Senior Web & Database Developer
+**March 2013 – March 2014 | Broomfield, CO**
+
+- Maintained and enhanced ASP.NET/C# applications supporting financial department operations.
+- Modernized application interfaces using HTML5, CSS3, jQuery, and Kendo UI.
+- Developed Entity Framework solutions against Oracle and SQL Server.
+- Created and maintained SSIS packages, Windows applications, and database functionality.
+- Assisted other developers and business users with SQL queries, reports, and development tasks.
+- Worked in a secure onsite development environment.
+
+### BALL AEROSPACE | Senior Web & Database Developer
+**June 2012 – January 2013 | Broomfield, CO**
+
+- Designed and developed **Tat-too (Telemetry Analysis Tool, Version 2)**, a web-based telemetry analysis application for a spacecraft testing center.
+- Built functionality allowing users to retrieve data from database tables and generate configurable charts and graphs, including moving-average analysis.
+- Worked with SQL Server 2008, T-SQL, ASP.NET Web Forms, JavaScript, jQuery, and Flotr2.
+- Designed and supported database structures, performance tuning, and telemetry import processes.
+- Developed additional supporting software for James Webb Space Telescope testing activities.
+- Completed the work within a fixed six-month contract, including technical documentation and handoff to the internal team.
+
+### AMERICAN WATER WORKS ASSOCIATION (AWWA) | Senior Web Applications Developer
+**April 2008 – June 2012 | Denver, CO**
+
+- Maintained and enhanced the AWWA website and applications supporting the TMA Resources Personify Association Management system.
+- Designed and developed application features using C#, VB.NET, ASP.NET Web Forms, DotNetNuke modules, ASPX pages, and XSL templates.
+- Developed and maintained SQL Server database functionality supporting and extending the Personify application.
+- Created reports using SQL Server and Crystal Reports.
+- Worked with SQL Server 2005–2008, T-SQL, JavaScript, IIS, XML/XSL, HTML, and Google Search Appliance.
+- Worked within an established professional standards and organizational requirements environment.
+
+### SUPERNOVA SOFTWARE, LLC | Owner / Software Developer
+**June 2005 – Present | Mesa, AZ**
+
+- Design, develop, and maintain C#/.NET client/server applications and SQL Server databases for the manufactured-home lending industry.
+- Developed a lending application enabling lenders, dealers, and buyers to collaborate on financing solutions, with automated generation of loan paperwork when transactions are ready to close.
+- Developed client/server applications for the California Department of Housing and Community Development, with similar application and database work for Colorado and Oregon.
+- Developed ASP.NET MVC applications, including database search functionality integrated with Google Maps.
+- Built document-generation automation using templates and field replacement to produce customized refinance application and contract documents. An original document-generation application remains in use by a business partner.
+- Manage application development from requirements and design through implementation, maintenance, and delivery.
+
+### BUSINESS ENTERPRISE INSTITUTE | C#/ASP.NET Developer & IT Manager
+**March 2006 – April 2008 | Lakewood, CO**
+
+- Developed ASP.NET applications and SQL Server database functionality supporting company websites and business operations.
+- Created a sales pipeline management application using ASP.NET Web Forms, allowing clients to manage mailing lists.
+- Designed and maintained a content management system supporting different document and website versions for different clients.
+- Maintained web servers, databases, and company IT systems.
+- Managed day-to-day IT operations and ongoing website development.
+
+### MOORE-WALLACE / RR DONNELLEY | Software Developer
+**April 2005 – March 2006 | Logan, UT**
+
+- Developed software supporting client websites, data imports, online reporting, and data-driven PDF document generation.
+- Designed and developed **Gay-ML**, a proprietary markup language for incorporating live database information into PDF documents.
+- Built the Apache-based PDF generation engine supporting dynamic document creation.
+- Authored technical documentation for the markup language and associated system to support standardized development and maintenance within an ISO 9001 quality-management environment.
+- Developed data-driven PDF reporting tools using XSL-FO and Apache FOP.
+- Helped standardize data-import processes using SQL and DTS.
+
+### WALL STREET ON DEMAND, INC. | SQL Developer
+**October 1999 – August 2002 | Boulder, CO**
+
+- Designed and developed SQL Server database applications supporting major financial and investment clients, including Charles Schwab, TD Waterhouse, Janus Funds, Forbes, E*Trade, and Reuters.
+- Created **WorldScope**, a comprehensive financial data system incorporating company balance-sheet information and market quotes for thousands of companies across multiple stock exchanges.
+- Developed a novel data-clustering approach to organize and manage large financial datasets beyond the practical capabilities of the SQL Server environment at the time.
+- Integrated financial data into reporting applications for Charles Schwab.
+- Designed and maintained a large foreign-equities database supporting multiple clients.
+- Built the database supporting Japanese-language investment research for the launch of Schwab Japan.
+- Developed investment calendars for TD Waterhouse and a Java application for tracking database usage.
+- Contributed to application design, business logic, security, data acquisition, and database architecture.
+
+## TECHNICAL LEADERSHIP & MENTORSHIP
+
+- Extensive experience onboarding and mentoring junior software developers.
+- Regularly use pair programming, hands-on instruction, code discussion, and collaborative problem-solving to help developers build technical skills.
+- Enjoy teaching the reasoning behind engineering decisions, not simply providing answers or code.
+- Mentor developers in professional ethics, workplace communication, accountability, and job performance.
+- Invest in supportive working relationships and help junior engineers develop confidence, sound judgment, and independence.
+- Emphasize knowledge transfer, maintainable solutions, clear documentation, and responsible engineering practices.
+
+## STANDARDS, DOCUMENTATION & DELIVERY
+
+- Experience working in standards-driven environments across water industry, financial services, healthcare-related information, and enterprise systems.
+- Authored technical documentation for custom software and proprietary development technologies in an ISO 9001 quality-management environment.
+- Experienced in delivering complete software solutions, including implementation, documentation, and handoff.
+- Familiar with the importance of repeatable processes, maintainability, data handling, and compliance-conscious development.
 
 ## EDUCATION
-**Hastings College** | Hastings, NE | *8/94 – 12/99*
 
-B. A. Biology awarded 5/2000.
+**Hastings College | Hastings, Nebraska**  
+Bachelor of Arts, Biology — May 2000
 
-Major in Biology with emphasis in Computer Science and Mathematics. Participated as a Student Senator for two years and was President of the Non-Traditional Student Activity Club for two years.
+Major in Biology, with emphasis in Computer Science and Mathematics.
