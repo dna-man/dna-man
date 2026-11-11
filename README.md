@@ -107,7 +107,6 @@ I enjoy understanding how things work at a fundamental level, connecting that un
 
 The channel also reflects something important about how I approach engineering: understanding a technology is one thing; being able to explain it clearly enough that someone else can understand it is another.
 
-The channel has been quieter recently, but I'm actively working on new material and projects. It's an ongoing outlet for my curiosity, experimentation, and enthusiasm for sharing what I've learned.
 ---
 
 ### A Common Thread
