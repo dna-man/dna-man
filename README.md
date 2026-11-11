@@ -19,4 +19,4 @@ To review my nearly three decades of professional history, technical competencie
 
 * **Languages & Architecture:** C#, .NET Core, C/C++, JavaScript, TypeScript, SQL, Assembly, Python, Matlab.
 * **Database Internals:** Microsoft SQL Server (Query Optimization, Triggers, Stored Procedures, Indexing Strategy), Oracle, MongoDB, Redis.
-* **System Rescue Strategy:** Specializing in tactical system rescue—diagnosing deep concurrency faults, permanently eliminating persistent production deadlocks, and stabilizing mission-critical data paths.
+* **System Rescue Strategy:** Specializing in tactical system rescue—diagnosing deep concurrency faults, resolving persistent production deadlocks, and stabilizing mission-critical data paths.
