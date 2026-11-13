@@ -110,6 +110,10 @@ What ties these subjects together is my interest in understanding how technology
 I enjoy sharing that knowledge. Explaining a complicated subject clearly requires more than knowing which buttons to press or which library to use; it requires understanding the underlying principles well enough to make them understandable to someone else.
 
 The channel is also an extension of my approach to mentoring and engineering: experiment, investigate, understand, and share what you've learned.
+<details>
+<summary><strong>📺 View all 22 Clipboard Electronics tutorials</strong></summary>
+
+<br>
 1. [Clipboard Electronics: ATTiny Timers Hardware Deep Dive](https://youtu.be/W0PRDd4JXcg?si=kURHOdkawSU2mGff)
 2. [Clipboard Electronics: Retrocomputer (6502/Z80) Clock Hardware](https://youtu.be/Zp9Vt3NSAtw?si=prLrrC6kkiOiQ0zP)
 3. [Clipboard Electronics: ATTiny Programming Tutorial](https://youtu.be/FVDanliUgPU?si=lSCd5dBWt1gIGhux)
@@ -132,6 +136,7 @@ The channel is also an extension of my approach to mentoring and engineering: ex
 20. [Clipboard Electronics: Hysteresis](https://youtu.be/tQ2Rx9XR_EQ?si=EY8_Ee30pE_prrG_)
 21. [Clipboard Electronics: TinySA Police Chase Tracking](https://youtube.com/shorts/k11hTlnqZyA?si=uSprMRbeM5Mv3hDv)
 22. [Clipboard Electronics: Petoi Bittle-X Time-lapse Build](https://youtu.be/fW_Xutk9BxU)
+</details>
 
 ---
 
