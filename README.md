@@ -95,7 +95,19 @@ The challenge isn't simply to automate a sequence of actions. It's to create som
 
 The machine is nearing completion. This project brings together mechanical design, electronics, automation, and my broader engineering philosophy: technology should work around people, not expect people to work around technology.
 
-### 6. Clipboard Electronics: Technology from the Ground Up
+### 6. From RC Aircraft to Autonomous Flight
+
+My interest in engineering has never stopped at the software layer. I've spent years building, configuring, and flying aircraft, with a particular interest in autonomous flight systems. I posted some of the earliest aerial video to Youtube, including a flight inside the Wings Over The Rockies Museum showing their B-1 Bomber and other aircraft from a unique angle!
+
+I participated in one of the early Aerial Vehicle Competition (AVC) events at Boulder Reservoir, flying a red fixed-wing aircraft equipped with a UDB5 (UAV DevBoard 5) autopilot. This was an early hands-on experience with autonomous aircraft, long before today's consumer drone ecosystem became commonplace.
+
+That interest continued through building fixed-wing aircraft and multirotors using ArduPilot, configuring autopilots with Mission Planner, and working with platforms such as the 3DR Solo.
+
+These experiences give me a practical understanding of the intersection between software, electronics, sensors, telemetry, control systems, and physical machines. I'm especially interested in engineering challenges involving autonomous systems, aerospace, UAS platforms, and the software that makes complex hardware work reliably.
+
+I don't just write software for engineering systems. I enjoy building, configuring, and understanding the systems themselves.
+
+### 7. Clipboard Electronics: Technology from the Ground Up
 
 **Technical Education, Experimentation & Practical Engineering | YouTube**
 
