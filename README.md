@@ -113,29 +113,29 @@ The channel is also an extension of my approach to mentoring and engineering: ex
 <details>
 <summary><strong>📺 View all 22 Clipboard Electronics tutorials</strong></summary>
 
-<br>
-1. [Clipboard Electronics: ATTiny Timers Hardware Deep Dive](https://youtu.be/W0PRDd4JXcg?si=kURHOdkawSU2mGff)
-2. [Clipboard Electronics: Retrocomputer (6502/Z80) Clock Hardware](https://youtu.be/Zp9Vt3NSAtw?si=prLrrC6kkiOiQ0zP)
-3. [Clipboard Electronics: ATTiny Programming Tutorial](https://youtu.be/FVDanliUgPU?si=lSCd5dBWt1gIGhux)
-4. [Clipboard Electronics: Baofeng Programming with CHIRP (UV-5R and BF-F8HP)](https://youtu.be/ftwlYMzEjeA?si=3d5kXS_dpfTTE1GZ)
-5. [Clipboard Electronics: Make IC Labels Readable](https://youtu.be/Rl5jaN8dRDk?si=tiXt7jF7IWLTU0MM)
-6. [Clipboard Electronics: Arduino LED Control and PWM Basics](https://youtu.be/XXtXHj8_XNc?si=etV3paJLccY-cJEp)
-7. [Clipboard Electronics: Arduino Basic Supplies List](https://youtu.be/mg-hmzTL0d0?si=cGOQlpwAi52vZLu7)
-8. [Clipboard Electronics: Arduino Projects Basics](https://youtu.be/grLyHi-wfoo?si=p0yVPZoxLfLnfDCk)
-9. [Clipboard Electronics: Arduino High Temperature Kiln Alarm Prototype](https://youtu.be/ScGuF6fwPgg?si=F-tWhLlkHov7zyVr)
-10. [Clipboard Electronics: JYETech DSO150 Pocket Oscilloscope Tips](https://youtu.be/ZwvjVlGbkSI?si=vToH2e9ywz8rd8M0)
-11. [Clipboard Electronics: SparkFun JYETech Oscilloscope Kit Build](https://youtu.be/zjhpEm7OONc?si=4iqiZf3m6Wua1qXB)
-12. [Arduino LSM303 Demo](https://youtu.be/1avjTKbksww?si=8JNzybkp8XA9ZIcA)
-13. [Clipboard Electronics: RadioShack Arduino Starter Kit Review](https://youtu.be/pf4qosqpv3A?si=6crSGfCv_NBcUc1v)
-14. [Clipboard Electronics: Arduino State Machines & BlinkWithoutDelay](https://youtu.be/3VZgaJBrZD8?si=JjVIb825nfCX0ML5)
-15. [Radio Shack Tri-color LED Strips How-to](https://youtu.be/h_GXhJeCDD0?si=mTyCu4LyObhsvHRD)
-16. [Clipboard Electronics: Arduino Micro Setup & First Program](https://youtu.be/LmVm9zcSXic?si=bTiil9uiachviLZ3)
-17. [All About LEDs for RC Night Flying](https://youtu.be/9NC2IGVWUew?si=15HJj1ASGQVNkgSf)
-18. [Clipboard Electronics: Make a Better DIY TV Antenna Than Commercial Ones](https://youtu.be/_QplIxvqtUo?si=QSVvTjaib-nuh5FA)
-19. [Clipboard Electronics: Petoi Bittle Review (for Developers!)](https://youtu.be/_HGx4vAeLTs?si=IobX2kI6nnsjr_UW)
-20. [Clipboard Electronics: Hysteresis](https://youtu.be/tQ2Rx9XR_EQ?si=EY8_Ee30pE_prrG_)
-21. [Clipboard Electronics: TinySA Police Chase Tracking](https://youtube.com/shorts/k11hTlnqZyA?si=uSprMRbeM5Mv3hDv)
-22. [Clipboard Electronics: Petoi Bittle-X Time-lapse Build](https://youtu.be/fW_Xutk9BxU)
+<br/>
+1. [Clipboard Electronics: ATTiny Timers Hardware Deep Dive](https://youtu.be/W0PRDd4JXcg?si=kURHOdkawSU2mGff)<br/>
+2. [Clipboard Electronics: Retrocomputer (6502/Z80) Clock Hardware](https://youtu.be/Zp9Vt3NSAtw?si=prLrrC6kkiOiQ0zP)<br/>
+3. [Clipboard Electronics: ATTiny Programming Tutorial](https://youtu.be/FVDanliUgPU?si=lSCd5dBWt1gIGhux)<br/>
+4. [Clipboard Electronics: Baofeng Programming with CHIRP (UV-5R and BF-F8HP)](https://youtu.be/ftwlYMzEjeA?si=3d5kXS_dpfTTE1GZ)<br/>
+5. [Clipboard Electronics: Make IC Labels Readable](https://youtu.be/Rl5jaN8dRDk?si=tiXt7jF7IWLTU0MM)<br/>
+6. [Clipboard Electronics: Arduino LED Control and PWM Basics](https://youtu.be/XXtXHj8_XNc?si=etV3paJLccY-cJEp)<br/>
+7. [Clipboard Electronics: Arduino Basic Supplies List](https://youtu.be/mg-hmzTL0d0?si=cGOQlpwAi52vZLu7)<br/>
+8. [Clipboard Electronics: Arduino Projects Basics](https://youtu.be/grLyHi-wfoo?si=p0yVPZoxLfLnfDCk)<br/>
+9. [Clipboard Electronics: Arduino High Temperature Kiln Alarm Prototype](https://youtu.be/ScGuF6fwPgg?si=F-tWhLlkHov7zyVr)<br/>
+10. [Clipboard Electronics: JYETech DSO150 Pocket Oscilloscope Tips](https://youtu.be/ZwvjVlGbkSI?si=vToH2e9ywz8rd8M0)<br/>
+11. [Clipboard Electronics: SparkFun JYETech Oscilloscope Kit Build](https://youtu.be/zjhpEm7OONc?si=4iqiZf3m6Wua1qXB)<br/>
+12. [Arduino LSM303 Demo](https://youtu.be/1avjTKbksww?si=8JNzybkp8XA9ZIcA)<br/>
+13. [Clipboard Electronics: RadioShack Arduino Starter Kit Review](https://youtu.be/pf4qosqpv3A?si=6crSGfCv_NBcUc1v)<br/>
+14. [Clipboard Electronics: Arduino State Machines & BlinkWithoutDelay](https://youtu.be/3VZgaJBrZD8?si=JjVIb825nfCX0ML5)<br/>
+15. [Radio Shack Tri-color LED Strips How-to](https://youtu.be/h_GXhJeCDD0?si=mTyCu4LyObhsvHRD)<br/>
+16. [Clipboard Electronics: Arduino Micro Setup & First Program](https://youtu.be/LmVm9zcSXic?si=bTiil9uiachviLZ3)<br/>
+17. [All About LEDs for RC Night Flying](https://youtu.be/9NC2IGVWUew?si=15HJj1ASGQVNkgSf)<br/>
+18. [Clipboard Electronics: Make a Better DIY TV Antenna Than Commercial Ones](https://youtu.be/_QplIxvqtUo?si=QSVvTjaib-nuh5FA)<br/>
+19. [Clipboard Electronics: Petoi Bittle Review (for Developers!)](https://youtu.be/_HGx4vAeLTs?si=IobX2kI6nnsjr_UW)<br/>
+20. [Clipboard Electronics: Hysteresis](https://youtu.be/tQ2Rx9XR_EQ?si=EY8_Ee30pE_prrG_)<br/>
+21. [Clipboard Electronics: TinySA Police Chase Tracking](https://youtube.com/shorts/k11hTlnqZyA?si=uSprMRbeM5Mv3hDv)<br/>
+22. [Clipboard Electronics: Petoi Bittle-X Time-lapse Build](https://youtu.be/fW_Xutk9BxU)<br/>
 </details>
 
 ---
