@@ -75,7 +75,7 @@ The Ball engagement was a six-month contract. The work needed to be completed, d
 
 A significant part of the business involved generating documents containing information drawn from live data sources. I developed a solution that made this process more flexible and standardized.
 
-I designed a proprietary markup language called **Gay-ML**, which allowed database information to be incorporated into PDF documents. I also built the PDF generation engine using Apache FOP and created technical documentation to support consistent development and maintenance.
+I designed a proprietary XML markup language, which allowed database fields and tables to be incorporated into PDF documents. I also built the PDF generation engine using Apache FOP and created technical documentation to support consistent development and maintenance.
 
 The work was more than a document-generation utility. It helped establish a repeatable way to transform structured business data into finished documents.
 
