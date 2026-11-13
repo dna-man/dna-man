@@ -112,7 +112,7 @@ I enjoy sharing that knowledge. Explaining a complicated subject clearly require
 The channel is also an extension of my approach to mentoring and engineering: experiment, investigate, understand, and share what you've learned.
 
 <details>
-  <summary><strong>📺 View all 22 Clipboard Electronics tutorials</strong></summary>
+  <summary><strong>📺 View all 22 Clipboard Electronics videos</strong></summary>
 
   <ol>
     <li><a href="https://youtu.be/W0PRDd4JXcg?si=kURHOdkawSU2mGff">Clipboard Electronics: ATTiny Timers Hardware Deep Dive</a></li>
