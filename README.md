@@ -131,6 +131,7 @@ The channel is also an extension of my approach to mentoring and engineering: ex
 19. [Clipboard Electronics: Petoi Bittle Review (for Developers!)](https://youtu.be/_HGx4vAeLTs?si=IobX2kI6nnsjr_UW)
 20. [Clipboard Electronics: Hysteresis](https://youtu.be/tQ2Rx9XR_EQ?si=EY8_Ee30pE_prrG_)
 21. [Clipboard Electronics: TinySA Police Chase Tracking](https://youtube.com/shorts/k11hTlnqZyA?si=uSprMRbeM5Mv3hDv)
+22. [Clipboard Electronics: Petoi Bittle-X Time-lapse Build](https://youtu.be/fW_Xutk9BxU)
 
 ---
 
