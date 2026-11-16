@@ -144,7 +144,8 @@ Embedded Systems, Arduino, ESP32, Microcontrollers, Telemetry Analysis, Automati
 **April 2005 – March 2006 | Logan, UT**
 
 - Developed software supporting client websites, data imports, online reporting, and data-driven PDF document generation.
-- Designed and developed **Gay-ML**, a proprietary markup language for incorporating live database information into PDF documents.
+- Designed and developed a proprietary markup language for incorporating live database information into PDF documents.
+- Improved processes and speed for AS400 data pipeline to support high speed printers.
 - Built the Apache-based PDF generation engine supporting dynamic document creation.
 - Authored technical documentation for the markup language and associated system to support standardized development and maintenance within an ISO 9001 quality-management environment.
 - Developed data-driven PDF reporting tools using XSL-FO and Apache FOP.
