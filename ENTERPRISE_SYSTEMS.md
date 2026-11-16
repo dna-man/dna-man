@@ -42,7 +42,7 @@ Embedded Systems, Arduino, ESP32, Microcontrollers, Telemetry Analysis, Automati
 - Resolved persistent production deadlocks and race conditions in a high-volume SQL Server environment that had created significant development and operational problems.
 - Diagnosed underlying transactional behavior and implemented targeted logic changes within database triggers, avoiding unnecessary and invasive changes across multiple procedures.
 - Improved execution performance across legacy SQL Server procedures and integrations.
-- Developed and maintained application functionality using MVC .NET and JavaScript.
+- Developed and maintained application functionality using MVC .NET, JavaScript, Typescript, EF Core.
 - Focused on production stability, database reliability, and maintainable solutions in an audit-conscious environment.
 
 ### WELLS FARGO | Senior Web Developer
