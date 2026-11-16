@@ -10,11 +10,11 @@ Multi-discipline senior software engineer and database architect with nearly thr
 * **Scientific Foundation:** B.A. in Biology with a strong emphasis on Computer Science and Mathematics.
 * **Edge AI & Computer Vision:** Real-time object tracking, facial recognition, and image classification using **HuskyLens** and **MU Vision sensors**; custom data parsing via embedded Python/C++ interfaces.
 * **Hardware & IoT Engineering:** Embedded systems design utilizing the **ESP32 platform**, ATmega328, Arduino, and PIC microcontrollers; electronic circuit prototyping, e-paper display integration, and Bluetooth/Wi-Fi wireless communication protocols.
-* **AI Dev Tools & LLMs:** Expert proficiency in **GitHub Copilot** for accelerated development and context-aware code translation. Hands-on experience configuring **Ollama** and **Jan** for local, secure LLM orchestration.
+* **AI Dev Tools & LLMs:** Expert proficiency in **GitHub Copilot** for accelerated development and context-aware code translation. 
 * **Pipeline & Data Engineering:** Exposure to **Nextflow** for genomic workflow orchestration; expert in Jenkins CI/CD, ETL (SSIS), and advanced database performance tuning (SQL Server, Oracle, MongoDB).
 * **Full Stack & Cloud Frameworks:** Azure Fundamentals Certified, AWS, Intel Cloud, .NET Core, C#, ASP.NET MVC, WebAPI, React, Angular, Node.js, Python, and Matlab.
 
-### Engineering Approach
+## Engineering Approach
 I build technology around people, not people around technology. I specialize in diagnosing difficult problems, designing practical solutions, and carrying projects through implementation, documentation, and handoff. I also value mentoring developers and helping teams build better engineering practices.
 
 ## WORK EXPERIENCE
