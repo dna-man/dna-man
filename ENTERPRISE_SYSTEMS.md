@@ -19,7 +19,7 @@ A hands-on technical leader who takes ownership from initial design through impl
 C#, .NET, .NET Core, ASP.NET MVC, ASP.NET Web Forms, Web API, VB.NET, JavaScript, TypeScript, SQL, Python, C++
 
 **Application Architecture:**  
-Full-Stack Development, REST APIs, WCF, Entity Framework, LINQ, Razor, Windows Applications, Windows Services, Client/Server Applications, Service-Oriented Architecture, Application Integration
+Full-Stack Development, REST APIs, WCF, Entity Framework, EF Core, LINQ, Razor, Windows Applications, Windows Services, Client/Server Applications, Service-Oriented Architecture, Application Integration
 
 **Database Engineering:**  
 Microsoft SQL Server, T-SQL, Oracle, MongoDB, Redis, Database Architecture, Data Modeling, Query Optimization, Stored Procedures, Triggers, Indexing, Transaction Management, SSIS, ETL, Data Warehousing, SSRS, Crystal Reports
